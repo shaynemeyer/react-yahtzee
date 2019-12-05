@@ -90,7 +90,7 @@ score 25 (else 0)</td>
 </table>
 
 ## Whats next?
-* Deploy to Github Pages so it can be played online.
+* ~~Deploy to Github Pages so it can be played online~~. <https://shaynemeyer.github.io/react-yahtzee/>
 * Add gameover and a way to start a new game.
 * Highscores - persist scores to localStorage so that the user can save their highscores.
 * Refactor Rules.js to not use JavaScript classes.
