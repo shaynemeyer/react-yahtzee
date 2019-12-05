@@ -95,3 +95,4 @@ score 25 (else 0)</td>
 * Highscores - persist scores to localStorage so that the user can save their highscores.
 * Refactor Rules.js to not use JavaScript classes.
 * Use websockets to allow you to play the game with a friend.
+* Make more mobile friendly.
